@@ -1,4 +1,4 @@
-# UZ Translit
+# SparkPost client library for PHP
 
 **Install**
 ```$xslt
